@@ -1,10 +1,13 @@
 # Wuzzuf-Jobs-Data-Analysis-Java-Project
-## Statistical Analysis for Wuzzzuf Data Set
+## Statistical Analysis for Wuzzzuf Data Set (WebApp & Tester Client)
 #
+
 ### Team Members:
 ####  - Ahmed Maher Farag
 ####  - Mohamed Salah Helal
 ####  - Walaa Mahmoud Helmy
+#
+## Group (1) 
 
 #
 ### Supervised by:
