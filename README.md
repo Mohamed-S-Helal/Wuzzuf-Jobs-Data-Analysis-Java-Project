@@ -1,5 +1,5 @@
 # Wuzzuf-Jobs-Data-Analysis-Java-Project
-## Statistical Analysis for Wuzzzuf Data Set (WebApp & Tester Client)
+## Statistical Analysis for Wuzzzuf Data Set (Web Service & Tester Client)
 #
 
 ### Team Members:
